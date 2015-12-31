@@ -1,0 +1,7 @@
+[package]
+name = "hughsynth"
+version = "0.1.0"
+authors = ["Hugh Rawlinson <hugh@codeoclock.net>"]
+
+[dependencies]
+sound_stream="*"
